@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablobriceno&label=Profile%20views&color=0e75b6&style=flat" alt="pablobriceno" /> </p>
 
+- 🏫 I’m currently studying Computer Engineering at [DuocUC](https://www.duoc.cl/)
+
 - 🔭 I’m currently working on [AnimalCode](https://animalcode.gq/)
 
 - 🌱 I’m currently learning **Laravel**
